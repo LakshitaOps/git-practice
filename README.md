@@ -1,2 +1,1 @@
-# Git Practice
-This is my first Git branch.
+This is the conflict branch.
